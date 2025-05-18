@@ -1,2 +1,2 @@
-# finan-as
+# financa
 Investimento_Planilha
